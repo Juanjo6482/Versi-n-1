@@ -1,0 +1,38 @@
+Pasos para hgacer el video GIT
+
+1. PWD = Mostrar ubicación
+2. ls = mostras lo que contien adentro
+3. ls -al = mostras archivos ocultos
+4. touch = crear un archiov -8se especifica el nmbre y tipo de archivo
+5. Agregar contenido
+6. git init = inicialisar el git
+7. ls -al = Comprobar la creación de GIT (archivos adentro, ya que no contiene arhcivos visible)
+//debe haber una capreta ocultota llamada .git
+Code . = ejecutae
+8. status = vemos el est|ado de los archivo 
+9. add archivo.est = agregamos el archivo al area de trabajo (ubicado en git)
+10. Status = revisamos de nuevo y confirmamos que este en S.A.
+11. git commit -m “V1 - proyecto HTML”
+//Las comillas son para dejar un mensaje, este aparecera en el histrial de los COMMIT's para indicarnos que fue lo ultimo que hicimos (como una vitacora de todos los ateriores cambios)
+12. 11. git commit -m “V1 - proyecto HTML” = volvemos y guardmos en commit, ahora que GIT ya save quien somos
+13. Modificamos nuestro HTML
+14. add .html = lo volvemos a agregar en git
+15. commit = lo guardamos en commit 
+16. log = vemos el historial de commits y archivos  guardados en GIT
+
+
+
+<!DOCTYPE html>
+<html>
+<head>""
+
+	<form>
+
+	<body>
+		<h1>Medis</h1>
+		<img src="Materiales/Leon.png" alt="">
+		<
+		<
+	</body>
+		
+</html>	
